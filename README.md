@@ -1,1 +1,1 @@
-# energy-hub-service
+# energy-hub
